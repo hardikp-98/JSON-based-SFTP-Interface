@@ -1,0 +1,7 @@
+hostname = ''
+username = ''
+key_filename = '.pem'
+key_password = ''
+sftppath = '/opt/outbox'
+logpath = '/opt/SFTP/log'
+JSONpath='sftp.json'
